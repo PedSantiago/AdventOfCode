@@ -1,7 +1,5 @@
 package Day1;
 
-import main.java.Day1.InputReader;
-
 public class main {
     public static void main(String[] args) {
 

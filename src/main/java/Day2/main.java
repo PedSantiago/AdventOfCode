@@ -1,7 +1,5 @@
 package Day2;
 
-import main.java.Day2.DepthInputReader;
-
 public class main {
     public static void main(String[] args) {
 
